@@ -5,3 +5,7 @@
 ## git branch - M main (branch rename)
 
 ## git push origin -u (upstream)
+
+## git branch branch-name (create branch)
+
+## git branch -d branch-name (delete branch)
