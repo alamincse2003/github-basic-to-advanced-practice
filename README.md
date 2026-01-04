@@ -9,3 +9,5 @@
 ## git branch branch-name (create branch)
 
 ## git branch -d branch-name (delete branch)
+
+## git checkout -b branch-name (create branch with branch switch)
