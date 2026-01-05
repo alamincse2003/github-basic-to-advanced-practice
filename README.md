@@ -19,3 +19,5 @@
 ## git reset (commit code) --hard (commit delete)
 
 ## git push -f (all commit return)
+
+## git revert (commit code) (previous code return)
